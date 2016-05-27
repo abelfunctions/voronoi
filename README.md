@@ -10,5 +10,5 @@ approach allows one to maximally re-use analtyic continuation information.
 ## Authors
 
 * Nils Bruin
-* Sasha Zotine
+* Sasha Zotine (@szotine)
 * Chris Swierczewski (@cswiercz)
